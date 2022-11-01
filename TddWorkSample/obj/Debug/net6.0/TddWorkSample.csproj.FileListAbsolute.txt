@@ -1,5 +1,0 @@
-C:\Users\maxime.beaudoin\source\repos\TddWorkSample\TddWorkSample\obj\Debug\net6.0\TddWorkSample.csproj.AssemblyReference.cache
-C:\Users\maxime.beaudoin\source\repos\TddWorkSample\TddWorkSample\obj\Debug\net6.0\TddWorkSample.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\maxime.beaudoin\source\repos\TddWorkSample\TddWorkSample\obj\Debug\net6.0\TddWorkSample.AssemblyInfoInputs.cache
-C:\Users\maxime.beaudoin\source\repos\TddWorkSample\TddWorkSample\obj\Debug\net6.0\TddWorkSample.AssemblyInfo.cs
-C:\Users\maxime.beaudoin\source\repos\TddWorkSample\TddWorkSample\obj\Debug\net6.0\TddWorkSample.csproj.CoreCompileInputs.cache
